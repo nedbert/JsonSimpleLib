@@ -1,0 +1,6 @@
+name: JsonSimpleLib
+author: DeBe
+version: 1.0.0
+main: nukkitplugin.jslib.JsonSimpleLib
+api: 1.0.0
+load: STARTUP
